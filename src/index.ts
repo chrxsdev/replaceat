@@ -1,0 +1,1 @@
+export { ReplaceAt } from './lib';
